@@ -1,0 +1,29 @@
+[
+  {
+    "MovieId": 10005,
+    "MovieName": "Welcome",
+    "Genre": "Comedy",
+    "Rating": [
+      4.5
+    ],
+    "Year": 2007
+  },
+  {
+    "MovieId": 1002,
+    "MovieName": "Hera pheri",
+    "Genre": "Comedy",
+    "Rating": [
+      4.6
+    ],
+    "Year": 2002
+  },
+  {
+    "MovieId": 1003,
+    "MovieName": "Intersteller",
+    "Genre": "Sci-Fi",
+    "Rating": [
+      5.0
+    ],
+    "Year": 2004
+  }
+]

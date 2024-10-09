@@ -1,0 +1,5 @@
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieHub\MovieHub\obj\Debug\net8.0\MovieHub.csproj.AssemblyReference.cache
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieHub\MovieHub\obj\Debug\net8.0\MovieHub.GeneratedMSBuildEditorConfig.editorconfig
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieHub\MovieHub\obj\Debug\net8.0\MovieHub.AssemblyInfoInputs.cache
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieHub\MovieHub\obj\Debug\net8.0\MovieHub.AssemblyInfo.cs
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieHub\MovieHub\obj\Debug\net8.0\MovieHub.csproj.CoreCompileInputs.cache

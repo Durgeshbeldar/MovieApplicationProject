@@ -1,0 +1,12 @@
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\bin\Debug\net8.0\MovieManagementLibrary.deps.json
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\bin\Debug\net8.0\MovieManagementLibrary.dll
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\bin\Debug\net8.0\MovieManagementLibrary.pdb
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.csproj.AssemblyReference.cache
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.GeneratedMSBuildEditorConfig.editorconfig
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.AssemblyInfoInputs.cache
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.AssemblyInfo.cs
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.csproj.CoreCompileInputs.cache
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.dll
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\refint\MovieManagementLibrary.dll
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\MovieManagementLibrary.pdb
+S:\Office Work\Monocept Training\Assignments\DLL\MovieApplication\MovieManagementLibrary\MovieManagementLibrary\obj\Debug\net8.0\ref\MovieManagementLibrary.dll
